@@ -1,0 +1,1 @@
+.\chia_plot.exe -n -1 -k 29 -u 256 -b 1024 -r 64  -t /data1/tempom/ -d /data2/plors/ -x 9699 -p b7dc049a285d0fe1e569e8ae1a47c4a47b23ec85dff88fa1f2c937a5ce5b4d4d31b9ad62aae94168516a15bd8cdb9d6c -f 84fef2a1317d5968212fea0cb78517094dc11dfa3778de8bc540ea6a7fca4417bdd40a99e69aa35ea28f13b99d7aa9cd
